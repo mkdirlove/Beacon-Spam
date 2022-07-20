@@ -1,0 +1,1000 @@
+ssid
+xfinitywifi
+linksys
+<no ssid>
+BTWiFi-with-FON
+NETGEAR
+Ziggo
+dlink
+BTWifi-X
+default
+FreeWifi
+hpsetup
+UPC Wi-Free
+optimumwifi
+FreeWifi_secure
+AndroidAP
+eduroam
+BTWIFI
+TELENETHOMESPOT
+cablewifi
+KPN Fon
+SFR WiFi Mobile
+asus
+belkin54g
+TelenetWiFree
+wireless
+Home
+orange
+SFR WiFi FON
+Guest
+Fritz!Box Fon WLAN 7390
+TWCWiFi
+BTOpenzone
+UPC WifiSpots
+setup
+BTFON
+WLAN
+attwifi
+no_ssid
+Telekom_FON
+FRITZ!Box 7490
+KD WLAN Hotspot+
+portthru
+SFR WiFi Public
+FRITZ!Box Fon WLAN 7170
+FRITZ!Box 7362 SL
+FRITZ!Box Fon WLAN 7270
+0001softbank
+FRITZ!Box 7312
+internet
+FRITZ!Box Fon WLAN 7112
+FON_ZON_FREE_INTERNET
+iPhone
+SWS1day
+Bouygues Telecom Wi-Fi
+PROXIMUS_AUTO_FON
+FRITZ!Box 6360 Cable
+ZyXEL
+FRITZ!Box Fon WLAN 7360
+PROXIMUS_FON
+FON_BELGACOM
+Tp-link
+Vodafone Hotspot
+BTOpenzone-H
+TWCWiFi-Passpoint
+Free Public WiFi
+hhonors
+_AUTO_ONOWiFi
+FON_FREE_INTERNET
+ACTIONTEC
+BTOpenzone-B
+VOIP
+au_Wi-Fi
+freephonie
+SMC
+(null)
+FON_NETIA_FREE_INTERNET
+FRITZ!Box Fon WLAN 7113
+Wi2premium
+BELTELECOM WIFI
+wifi
+vodafone-WiFi
+U+zone
+EAGLE
+Wi2premium_club
+MyPlace
+FRITZ!Box 7330 SL
+iptime
+Motorola
+airportthru
+Sitecom
+FRITZ!Box 6490 Cable
+D-LINK
+orange12
+Gastzugang
+ShawOpen
+<hidden ssid>
+wlan-ap
+dd-wrt
+au_Wi-Fi2
+Orange_FunSpot
+FRITZ!Box WLAN 3170
+Concrete
+Netcomm Wireless
+rebar
+ollehWiFi
+FRITZ!Box Fon WLAN 7320
+Darmowe_Orange_WiFi
+0000docomo
+skynet
+netgear-guest
+FRITZ!Box Fon WLAN 7240
+101
+HomeNet
+Telstra AIR
+DIR-300NRU
+Telekom
+o2DSL
+logitecuser
+MSHOME
+HTC Portable Hotspot
+logitecgameuser
+FRITZ!Box Fon WLAN 7141
+Fon WiFi
+FRITZ!Box Gastzugang
+XFINITY
+FRITZ!Box WLAN 3270
+office
+Bright House Networks
+3Com
+_ONOWiFi
+DIR-615
+_The Cloud
+bandsaw
+Casa
+0002softbank
+Neuf WiFi
+Target Guest Wi-Fi
+TrendNET
+CMCC
+tsunami
+0001docomo
+Dom
+Speedport W 501V
+guestnet
+OTE WiFi Fon
+FRITZ!Box 6340 Cable
+test
+airport
+walmartwifi
+A9F1BDF1DAB1NVT4F4F59
+FRITZ!Box 7330
+MEO-WIFI
+THOMSON
+BTWi-fi
+Marriott_Guest
+myLGNet
+ASUS_5G
+coxwifi
+swisscom
+public
+Horizon Wi-Free
+<Hidden Network>
+mobile
+ZTE
+WirelessNet
+Lowes-Guest-WiFi
+Philips WiFi
+FRITZ!Box Fon WLAN 7360 SL
+DIRECT-
+NETGEAR_EXT
+TENDA
+WOW FI - FASTWEB
+FRITZ!Box 7272
+virus
+DIR-300
+ALICE-WLAN
+FRITZ!Box WLAN 3131
+O2 WIFI
+.FREE_Wi-Fi_PASSPORT
+FON_FREE_EAP
+RSS-351540
+xerox
+tmobile
+Alex
+KPN
+BHN Secure
+dge
+Voice
+docomo
+byfly WIFI
+FRITZ!Box Fon WLAN 7170 Annex A
+Private
+FRITZ!Box Fon WLAN 7050
+Linksys-G
+VOO_HOMESPOT
+Home Network
+YOTA
+Fon
+EdiMAX
+XFBSECA7HE6H
+pretty fly for a wifi
+NetWork
+WWM_P2P
+cisco
+T wifi zone
+CHT Wi-Fi(HiNet)
+admin
+ConnectionPoint
+CMCC-AUTO
+@wifi.id
+Wayport_Access
+demopool1
+HOL ALU WLAN
+steel
+staff
+Zoom
+Swisscom_Auto_Login
+NetFasteR IAD 2 (PSTN)
+Draytek
+NETGEAR-2.4-G
+str241xipv
+DIR-620
+T wifi zone_secure
+Oi WiFi Fon
+DSL_2640NRU
+USR8054
+Visitor
+FRITZ!Box 7412
+NETGEAR01
+Unitymedia WifiSpot
+netis
+M4m786iA
+CHT Wi-Fi Auto
+SYNC_00000000
+netgear12
+NETGEAR24
+netgear11
+FRITZ!Box 3272
+NETGEAR22
+NETGEAR13
+Connectify-me
+Homenetwork
+Apple
+NETGEAR23
+TELE2
+WiFi-Repeater
+NETGEAR10
+HomeDepot Public Wi-Fi
+Student
+Hotspot
+Netgear88
+NETGEAR28
+NETGEAR55
+NETGEAR41
+NETGEAR21
+NETGEAR26
+NETGEAR77
+NETGEAR75
+NETGEAR47
+NETGEAR45
+NETGEAR25
+Netgear18
+NETGEAR07
+NETGEAR16
+Netgear09
+NETGEAR19
+FRITZ!Box Fon WLAN 7340
+NETGEAR50
+netgear31
+NETGEAR05
+netgear69
+NETGEAR46
+NETGEAR35
+NETGEAR40
+netgear27
+NETGEAR1
+NETGEAR51
+NETGEAR85
+NETGEAR15
+NETGEAR74
+NETGEAR37
+NETGEAR99
+belkin
+NETGEAR80
+netgear44
+NETGEAR52
+Netgear57
+NETGEAR53
+NETGEAR71
+NETGEAR32
+Netgear30
+FRITZ!Box WLAN 3370
+NETGEAR81
+&lt;no ssid&gt;
+NETGEAR92
+NETGEAR08
+NETGEAR60
+NETGEAR63
+NETGEAR33
+NETGEAR49
+NETGEAR42
+NETGEAR43
+NETGEAR20
+NETGEAR70
+Netgear91
+NETGEAR78
+NETGEAR04
+NETGEAR82
+netgear76
+NETGEAR86
+NETGEAR65
+NETGEAR64
+NETGEAR36
+NETGEAR93
+david
+NETGEAR67
+Netgear61
+NETGEAR95
+NETGEAR96
+NETGEAR84
+NETGEAR79
+NETGEAR89
+NETGEAR90
+NETGEAR38
+netgear29
+NETGEAR17
+NETGEAR66
+NETGEAR68
+NETGEAR14
+netgear54
+NETGEAR48
+NETGEAR72
+NETGEAR34
+netgear83
+NETGEAR73
+NETGEAR58
+NETGEAR97
+NETGEAR03
+NETGEAR00
+NETGEAR56
+NETGEAR87
+NETGEAR62
+Wi-Fi
+NETGEAR06
+NETGEAR39
+NETGEAR94
+NETGEAR59
+netgear02
+NETGEAR98
+CG-Guest
+freebox
+Tele2-modem
+FRITZ!Box 6320 Cable
+Courtyard_Guest
+NETGEAR_Guest1
+Tiscali
+router
+plusnetwireless
+Tele Columbus
+WebSTAR
+0
+planexuser
+My Network
+hol - NetFasteR WLAN 3
+mycloud
+HOL_ZTE_4
+ANY
+DIR-320NRU
+DSLWLANModem200
+Wi2
+IPAD
+DIR-300NRUB7
+GDS VCI 01
+net
+backup
+Home1
+Airlive
+Gateway
+mywifi
+House
+FRITZ!Box Fon WLAN 7570 vDSL
+InfostradaWiFi
+Gast
+Maria
+DLINK_WIRELESS
+Unifi
+martin
+Wireless Network
+My ASUS
+Guest Network
+WirelessICC
+Wi2_club
+Pod
+Wireless-N
+FRITZ!Box SL WLAN
+.@  TRUEWIFI
+????
+FON_FREE_ssid
+WiFi-Repeater1
+NETGEAR-24-G
+UBNT
+Auto-BTWiFi
+FBI Surveillance Van
+homewifi
+myhome
+NETGEAR-5G
+NTT-SPOT
+Customer ID
+dell_device
+Sweex LW050v2
+mike
+DIR-300NRUB6
+Mywlan
+??
+ChinaNet
+Matrix
+HOMERUN
+serviceswifi
+onlime
+SpeedStream
+FRITZ!Box 6320 v2 Cable
+ADSL-WIFI
+john
+MOBILE-EAPSIM
+maison
+Dynex
+DELTA WifiSpots
+Green
+EMINENT
+Max
+alpha
+@ AISwifi
+thuis
+Pentagram
+anna
+.@  truemoveH
+Virgin Broadband
+???
+XLNBusinessServices
+kabelinternet
+DANIEL
+ibahn
+Apple Network
+SMITH
+SST-PR-1
+GuestWiFi
+chris
+vizio
+Virgin media
+Buffalo
+scandic_easy
+BLUE
+WLAN-TWDC
+OWNER-PC_Network
+.wifisfera_telecable
+7357asM
+orange14
+Michael
+Macysfreewifi
+TRENDnet652
+Boingo Hotspot
+APTG Wi-Fi
+Carbon
+draadloos
+5ECUR3w3p5TOR3
+Guest_Access
+ResidenceInn_GUEST
+thomas
+doma
+PrettyFlyForAWiFi
+[unknown]
+devolo
+WirelessSGF
+PJ-WIRELESS5
+Johnson
+scout
+laQuinta
+FON_MTS
+LWL-M
+Hyatt
+ASUS_Guest1
+ICIDU
+family
+MyNetwork
+Robert
+MelitaWiFi
+samsung
+brown
+Beeline_WiFi_WPA
+pocwyg7swean
+LDSAccess
+PT-WIFI
+wirelessmobile
+DSL-2640U
+University of Washington
+CORP
+george
+wireless1
+HCSC
+VIVACOM_NET
+demo
+corega
+SHC-RF-DS-3
+TRENDnet651
+james
+DV201AM
+FRITZ!Box 3390
+Orcon-Wireless
+USR5461
+Beeline_WiFi
+SSID
+IWIFI
+DM-HHT
+@Home
+Angel
+ShawPasspoint
+Sunshine
+CSL
+ABC
+bob
+comcast
+TG1672GD2
+FDS020
+AirLink89300
+ciscosb
+Williams
+Home Wireless
+TG1672G82
+TG1672G92
+TG1672G22
+TG1672G12
+goesh
+TG1672GF2
+ICT free WIFI by TRUE
+Peter
+TG1672G52
+TG1672G32
+TG1672GA2
+TG1672G72
+MINE
+TG1672G42
+TG1672G02
+TG1672G62
+TG1672GB2
+TG1672GE2
+TG1672GC2
+c2_free
+cWiFi
+mark
+corporate
+Paul
+HomeSweetHome
+Marina
+Domek
+OutOfService
+Sam
+swaaa
+CyfrowyPolsat
+Link
+GVT
+MyNet
+MIT
+philips
+3210 Phone WLAN SL
+BYOD
+airlink59300
+arris54g
+Guests
+AP
+orange13
+Charlie
+HomeWireless
+nomad5
+AndroidTether
+DATA
+0001_Secured_Wi-Fi
+docomo_eap_roaming
+Google Starbucks
+SHC-RF-DS-Vendor
+homebase
+GO1927
+jones
+CSL Auto Connect
+KEVIN
+p2pkoer
+elena
+wireless2
+pccw
+home2
+TG1672GD2-5G
+TG1672GF2-5G
+megahoc.v24
+MO1875
+ATT128
+TG1672GA2-5G
+FRITZ!Box Fon WLAN 7113 Annex A
+TG1672G12-5G
+TG1672G42-5G
+steve
+TG1672G62-5G
+TG1672G22-5G
+TG1672G82-5G
+WaveLAN Network
+ATT144
+wilson
+BLIZZARD
+TG1672G32-5G
+TG1672G72-5G
+eduSTAR
+ATT688
+TCWireless
+ATT032
+ATT768
+flashzone-seamless
+m3connect
+TG1672G92-5G
+Print Server
+Ikea WiFi
+ATT504
+ATT424
+TG1672G02-5G
+TG1672G52-5G
+ATT024
+TG1672GC2-5G
+ATT256
+ATT200
+DG1670A02
+ATT216
+TG1672GB2-5G
+Miller
+ATT056
+ATT968
+ATT824
+ATT464
+ATT280
+ATT624
+ATT936
+ATT888
+ATT472
+ATT336
+ATT248
+ATT304
+linksys1
+ATT960
+ATT432
+ATT104
+ATT072
+ATT480
+TG1672GE2-5G
+ATT344
+ATT800
+ATT584
+TPLINK
+ATT880
+ATT320
+P874
+ATT176
+ATT560
+ATT440
+iPhone (2)
+ATT400
+ATT096
+ATT136
+ATT488
+ATT664
+ATT544
+ATT720
+ATT912
+ATT088
+ATT496
+ATT120
+ATT744
+att296
+ATT952
+ATT416
+ATT392
+ATT240
+Wi-Fi Arnet
+ATT232
+ATT384
+att112
+megahoc.v22
+att728
+ATT760
+att328
+ATT928
+ATT976
+Anygate
+att360
+ATT288
+ATT840
+olga
+ATT408
+ATT520
+ATT008
+ATT648
+ATT192
+ATT696
+ATT872
+ATT808
+yrneh09
+ATT904
+ATT576
+ATT512
+ATT856
+ATT920
+ATT784
+ATT080
+ATT896
+ATT552
+ATT680
+ATT992
+ATT224
+ATT792
+RegusNETWiFi
+ATT048
+ATT376
+mprotek
+ATT656
+ATT208
+ATT712
+ATT672
+ATT848
+&lt;hidden ssid&gt;
+ATT864
+ATT616
+ATT184
+ATT600
+ATT456
+ATT632
+ATT312
+ATT536
+ATT264
+ATT168
+ATT160
+ATT368
+ATT832
+ATT152
+ATT016
+ATT776
+ATT640
+ATT592
+USER-PC_Network
+ATT608
+vpnator
+ATT528
+ATT944
+ATT736
+ATT064
+MO1975
+ATT752
+ATT984
+ATT448
+ATT816
+INTERMEC
+ATT272
+ATT352
+ATT568
+WLI
+ATT000
+repeater
+ATT704
+AlwaysOn
+redwood
+NESPOT
+ATT040
+kt_wlan
+Motel 6
+laura
+Free Internet Access
+GlobalSuiteWireless
+detnsw
+TitWpA23VfS
+lee
+TDPJ
+fritz
+unknown
+Inet
+beeline-router
+scott
+FRITZ!Box
+Frank
+Employee
+123
+DIRECT-xyPhilips TV
+homerun1x
+FREE_U+zone
+DOVADO
+SHC-RF-ID-2
+0000FLETS-SPOT
+TitLeP22VfS
+Hotel
+BATCAVE
+Carlos
+King
+Fairfield_Guest
+Tony
+jack
+FRITZ!Box Fon WLAN
+Linda
+richard
+20dealer08
+wlan1
+Home WiFi
+secure
+WirelessNet2
+myTouch 4G Hotspot
+NETGEAR2
+megahoc.v29
+FBI
+1234
+jason
+sweethome
+taylor
+hp
+FRITZ!Powerline 540E
+XLNTelecom
+Fullrate
+DG1670A02-5G
+SMARTSIGHT
+ZyXEL_ABGN_1
+BETA
+LISA
+anderson
+Gamma
+Apple Store
+arq_wifi
+vendcust
+?????
+Panasonic Display1
+HHT-WM1
+HHT-WM2
+vodafone
+Enterprise
+Bella
+0000FLETS-PORTAL
+tom
+meijer-corp
+mary
+Boingo_Wireless
+private1946
+IBM
+dd-wrt_vap
+AirPort Extreme
+jackson
+eBOS
+andy
+sandra
+ShawGuest
+Y5ZONE
+Tiger
+ask4 Wireless
+Pretty Fly for a Wi-Fi
+ArcorWirelessLAN
+Harvard University
+IVAN
+BeBox
+yournetworkname
+asu
+@ dtac wifi
+Linksys2
+Edimax AP
+Adam
+PCCW1x
+fred
+GIGABYTE
+holidayinn
+zuhause
+dlink1
+HTC network
+@Hyatt_WiFi
+FDS210
+RED
+FritzBox
+WIS
+Renaissance_GUEST
+DG1670A82
+DG1670AA2
+NetFasteR IAD (PSTN)
+IU SECURE
+DG1670A92
+DG1670A52
+davis
+Red5
+NETGEAR-DualBand-N
+RGIS
+Irina
+TitEaP21VfS
+sasha
+DG1670AE2
+0000_Secured_Wi-Fi
+PANERA
+studio
+DG1670A62
+QEBHW
+Siemenswlan
+Untitled
+DG1670A42
+Kelly
+DG1670A72
+DG1670AC2
+Andrea
+ChinaUnicom
+upstairs
+MSI
+NetCore
+Engenius1
+simon
+rose
+GoogleGuest
+subway
+DG1670A22
+paris
+Julia
+Diana
+DG1670A12
+orion
+tardis
+@ dtac wifi auto
+DG1670A32
+FRITZ!Box Fon WLAN 7140 Annex A
+mywireless
+WiFi_OBDii
+DG1670AD2
+#TELUS
+PHOENIX
+@ 3BB_WiFi
+MobileConnect
+DG1670AF2
+Leo
+Michelle
+1
+DG1670AB2
+WEST
+speedywifi
+ethostream
+Oscar
+Medialink
+str241xvce
+quality
+asu guest
+Living Room
+mario
+brian
+privat
+HG520b
+MikroTik
+PLDTMyDSL
+ASK4 Wireless (802.1x)
+Fibertel WiFi
+kubi
+BATMAN
+SSID1
+VICTOR
+Joe
+sarah
+jessica
+Andrew
+Speedy Instan@wifi.id
+188
+conference
+Amped_SR
+Telenor
+G604T_WIRELESS
+Telekom Fon
+DRAGON
+FRITZ!Box o2 DSL
+Kim
+Universities WiFi
+monkey
+BUK-Partners
+PLDTHOMEDSL
+Eric
+Tele2-2
+Mac
+verizon
+WIFI-Guest
+p27x1c2
+meijer-vendor
+swsecure
+Nordstrom_Wi-Fi
+dave
+SMCWBR14S-N4_AP
+google
+WMGuest
+Radisson_Guest
+MIT GUEST
+xxx
+GuestAccess
+moevlm05
+wirelesslan
+TMOTM
+AirLink29150
+AMD_IBSS
+Tesco WiFi
+DLinkVWR
+karen
+Android
+HG520s
