@@ -21,7 +21,7 @@
  sudo ./Beacon-Spam.sh
 ```
 
-### WiFi names list
+### Top 5000 WiFi Names
 ```
 https://gist.github.com/jgamblin/da795e571fb5f91f9e86a27f2c2f626f
 ```
